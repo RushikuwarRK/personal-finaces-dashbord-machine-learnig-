@@ -1,0 +1,9 @@
+month,category,type,amount
+2024-01,Food,expense,250.00
+2024-01,Entertainment,expense,150.00
+2024-01,Utilities,expense,100.00
+2024-01,Income,income,3000.00
+2024-02,Food,expense,220.00
+2024-02,Entertainment,expense,180.00
+2024-02,Utilities,expense,120.00
+2024-02,Income,income,3100.00

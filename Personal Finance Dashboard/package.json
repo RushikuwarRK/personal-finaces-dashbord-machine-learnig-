@@ -1,0 +1,20 @@
+{
+    "name": "personal-finance-dashboard",
+    "version": "1.0.0",
+    "description": "A personal finance dashboard for tracking income and expenses.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node backend/server.js"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "chart.js": "^3.9.1",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.1",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.8.1",
+        "mysql2": "^3.11.4"
+    },
+    "author": "Kuwar Rushikesh",
+    "license": "ISC"
+}

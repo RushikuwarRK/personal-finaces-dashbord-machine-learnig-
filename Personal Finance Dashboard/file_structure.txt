@@ -1,0 +1,26 @@
+Personal-Finance-Dashboard/
+├── backend/
+│   ├── app.js
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   └── transactionRoutes.js
+│   ├── middleware/
+│   │   └── auth.js
+│   ├── models/
+│   │   ├── Transaction.js
+│   │   └── User.js
+│   └── database.js
+├── data_analysis/
+│   ├── analysis.py
+│   ├── model.py
+│   ├── aggregated_data.csv
+│   └── requirements.txt
+├── frontend/
+│   ├── index.html
+│   ├── dashboard.html
+│   ├── styles/
+│   │   └── style.css
+│   ├── scripts/
+│   │   └── script.js
+├── server.js
+└── package.json
